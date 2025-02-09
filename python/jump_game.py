@@ -11,3 +11,4 @@ class Solution:
                 continue
         return False
         
+#for this problem as well, we can use DP, need to explore that part, but above method works as greedy algorthm, where I am iterating the array from last and therby changing the terminate if I am able to reach last element using that terminate
